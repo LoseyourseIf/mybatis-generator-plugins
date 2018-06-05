@@ -22,7 +22,7 @@ FORK自 KIWI 大神的 https://github.com/kiwiflydream/mybatis-generator-plugin
                 <dependency>
                     <groupId>xyz.mrwood.mybatis.generator.plugin</groupId>
                     <artifactId>mybatis-generator-plugin</artifactId>
-                    <version>1.0-SNAPSHOT</version>
+                    <version>1.0</version>
                 </dependency>
             </dependencies>
         </plugin>
