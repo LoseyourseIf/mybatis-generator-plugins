@@ -1,6 +1,6 @@
 # mybatis-generator-plugins
 
-FORK自 KIWI 大神的 https://github.com/kiwiflydream/mybatis-generator-plugins
+FORK自 KIWI 的 https://github.com/kiwiflydream/mybatis-generator-plugins
 
 其中依赖的 mybatis-generator-core 修改成不生成 WithBlob 的 model https://github.com/LoseyourseIf/mybatis-generator-core
 > ExtPlugin model,dao,xml 都会生成一个对应的 xxxExt.java OR xxxExt.xml，它们与原生文件是继承关系，这些扩展文件只会生成一次，原生文件每运行一
